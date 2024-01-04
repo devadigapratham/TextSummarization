@@ -1,0 +1,15 @@
+artifact_uri: file:///home/prathameshdevadiga/personal/projs/TextSummarization/mlruns/0/8d87dbe6b43748cb8bfb3381991cd1d0/artifacts
+end_time: 1704390580290
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d87dbe6b43748cb8bfb3381991cd1d0
+run_name: artifacts/model_trainer
+run_uuid: 8d87dbe6b43748cb8bfb3381991cd1d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704390577988
+status: 3
+tags: []
+user_id: prathameshdevadiga
